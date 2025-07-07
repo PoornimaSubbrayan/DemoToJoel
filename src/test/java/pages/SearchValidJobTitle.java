@@ -14,6 +14,7 @@ import static org.junit.Assert.assertEquals;
 
 public class SearchValidJobTitle extends BrowserDriver{
 
+    //All variables are defined starting of the class
     public static String job_title = "//*[@id='keyword']";
     public static String search =  "//*[@id='search']";
     public static String location = "//*[@id='location']";
